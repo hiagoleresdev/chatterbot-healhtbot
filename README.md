@@ -2,7 +2,9 @@
 Esse projeto foi criado utilizando a biblioteca chatterbot, que possíbilita a criação de chatbots interativos utiliznado a linguagem python.
 
 Para conseguir rodar esse projeto, você precisa ter o chatterbot instalado na sua máquina, use o seguinte comando no terminal.
-#
-'''BASIC
-pip install chatterbot
-'''
+
+```` 
+```
+Look! You can see my backticks.
+```
+````

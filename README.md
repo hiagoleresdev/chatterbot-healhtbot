@@ -4,5 +4,5 @@ Esse projeto foi criado utilizando a biblioteca chatterbot, que possíbilita a c
 Para conseguir rodar esse projeto, você precisa ter o chatterbot instalado na sua máquina, use o seguinte comando no terminal.
 
 ```` 
-##pip install chatterbot
+pip install chatterbot
 ````
